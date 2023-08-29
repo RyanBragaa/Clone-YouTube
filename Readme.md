@@ -1,0 +1,1 @@
+Clone feito com HTML e CSS puro 
